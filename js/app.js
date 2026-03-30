@@ -80,6 +80,9 @@ class RoommateFinder {
                 <div class="auth-card">
                     <h1>Welcome Back</h1>
                     <p>Find your perfect roommate today</p>
+                    <div style="background:#fff3cd;border:1px solid #ffc107;border-radius:8px;padding:0.75rem 1rem;margin-bottom:1rem;font-size:0.85rem;color:#856404;">
+                         First load may take up to 60 seconds while the server wakes up. Please be patient!
+                        </div>
                     <div id="alerts"></div>
                     <form id="loginForm">
                         <div class="form-group">
@@ -128,6 +131,9 @@ class RoommateFinder {
                 <div class="auth-card">
                     <h1>Join Us</h1>
                     <p>Create your account and start finding roommates</p>
+                    <div style="background:#fff3cd;border:1px solid #ffc107;border-radius:8px;padding:0.75rem 1rem;margin-bottom:1rem;font-size:0.85rem;color:#856404;">
+                        First load may take up to 60 seconds while the server wakes up. Please be patient! 
+                        </div>              
                     <div id="alerts"></div>
                     <form id="registerForm">
                         <div class="form-group">
