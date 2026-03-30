@@ -792,7 +792,7 @@ class RoommateFinder {
                 <div class="container">
                     <div class="navbar-content">
                         <a href="#/dashboard" class="navbar-brand">
-                            <img src="images/Mates.jpg" alt="Mates Logo" class="navbar-logo">
+                            <img src="images/mates.jpg" alt="Mates Logo" class="navbar-logo">
                         </a>
                         <ul class="navbar-nav">
                             <li><a href="#/dashboard">Dashboard</a></li>
